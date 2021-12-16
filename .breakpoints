@@ -1,0 +1,34 @@
+{
+  "files": {
+    "gui.py": [
+      {
+        "id": "4ab9e756-9048-486a-ab4c-d97a7772009f",
+        "line": 108,
+        "version": 374,
+        "index": 2039
+      }
+    ],
+    "õpi.py": [
+      {
+        "id": "189e543d-0868-4462-a5e6-4c85746d8115",
+        "line": 1,
+        "version": 25,
+        "index": 0
+      }
+    ],
+    "õpi_kaart.py": [
+      {
+        "id": "ab8c411d-00bb-47b8-a43a-6c5d1cfc8d42",
+        "line": 145,
+        "version": 1225,
+        "index": 3321
+      },
+      {
+        "id": "a31993d8-d00c-44aa-b968-76677c29a251",
+        "line": 159,
+        "version": 1225,
+        "index": 3675
+      }
+    ]
+  }
+}
